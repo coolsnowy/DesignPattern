@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="test" targetName="test" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6eaddfd6-a788-4013-9a02-b05d5cd66a49" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FUSProjectUsageTrigger">
+    <session id="1896743800">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="__config" value="1" />
+          <entry key="cpp" value="2" />
+          <entry key="h" value="2" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CMakeLists.txt" value="1" />
+          <entry key="ObjectiveC" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cpp" value="720" />
+          <entry key="h" value="665" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="ObjectiveC" value="1385" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.52896726">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main.cpp">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="209">
+                  <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/singleton.cpp">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="499">
+                  <caret line="50" column="3" lean-forward="true" selection-start-line="50" selection-start-column="3" selection-end-line="50" selection-end-column="3" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/include/singleton.h">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="400">
+                  <caret line="125" column="69" selection-start-line="125" selection-start-column="69" selection-end-line="125" selection-end-column="69" />
+                  <folding>
+                    <element signature="e#41#60#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>std::swap</find>
+      <find>vector</find>
+      <find>2</find>
+      <find>e</find>
+      <find>m</find>
+      <find>ctime</find>
+      <find>time</find>
+      <find>main</find>
+      <find>reg</find>
+      <find>N</find>
+      <find>M</find>
+      <find>double</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>EXCHANGE</replace>
+      <replace>std::vector</replace>
+      <replace>a</replace>
+      <replace>long double</replace>
+    </replaceStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main.cpp" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/include/maxHeap.h" />
+        <option value="$PROJECT_DIR$/include/main.h" />
+        <option value="$PROJECT_DIR$/src/maxHeap.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/include/singleton.h" />
+        <option value="$PROJECT_DIR$/src/main.cpp" />
+        <option value="$PROJECT_DIR$/src/singleton.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="include" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="sigser&#9;FILE&#9;file:///usr/local/include/boost/asio/detail/signal_set_service.hpp" />
+    <property name="ToolWindowCMake.ShowToolbar" value="false" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.test">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="test" RUN_TARGET_NAME="test" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="test" TARGET_NAME="test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="test" RUN_TARGET_NAME="test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.test" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6eaddfd6-a788-4013-9a02-b05d5cd66a49" name="Default" comment="" />
+      <created>1523608590368</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523608590368</updated>
+      <workItem from="1523608592848" duration="423000" />
+      <workItem from="1523609879906" duration="2087000" />
+      <workItem from="1523612059793" duration="64000" />
+      <workItem from="1523845162537" duration="5510000" />
+      <workItem from="1523864432908" duration="1778000" />
+      <workItem from="1523965863525" duration="12235000" />
+      <workItem from="1524184410196" duration="7000" />
+      <workItem from="1524279126360" duration="4352000" />
+      <workItem from="1524791808322" duration="3871000" />
+      <workItem from="1524811271879" duration="9000" />
+      <workItem from="1524882120772" duration="9271000" />
+      <workItem from="1524974019272" duration="2270000" />
+      <workItem from="1525055106299" duration="881000" />
+      <workItem from="1525231334945" duration="977000" />
+      <workItem from="1525232943804" duration="2155000" />
+      <workItem from="1525314895140" duration="1106000" />
+      <workItem from="1525332985533" duration="5529000" />
+      <workItem from="1525394970046" duration="7267000" />
+      <workItem from="1525525697055" duration="5462000" />
+      <workItem from="1525572247616" duration="4874000" />
+      <workItem from="1525583813505" duration="304000" />
+      <workItem from="1525584129401" duration="3864000" />
+      <workItem from="1525590903388" duration="298000" />
+      <workItem from="1525591213409" duration="114000" />
+      <workItem from="1525591443109" duration="565000" />
+      <workItem from="1525592026536" duration="142000" />
+      <workItem from="1525592250143" duration="121000" />
+      <workItem from="1525592422370" duration="123000" />
+      <workItem from="1525592568463" duration="209000" />
+      <workItem from="1525592813469" duration="371000" />
+      <workItem from="1525593198708" duration="76000" />
+      <workItem from="1525593309138" duration="404000" />
+      <workItem from="1525593725277" duration="287000" />
+      <workItem from="1525594108990" duration="469000" />
+      <workItem from="1525594696810" duration="825000" />
+      <workItem from="1525614993374" duration="57000" />
+      <workItem from="1525656921503" duration="1930000" />
+      <workItem from="1525659216175" duration="16281000" />
+      <workItem from="1525742856253" duration="15301000" />
+      <workItem from="1525862806481" duration="7469000" />
+      <workItem from="1525915185316" duration="14012000" />
+      <workItem from="1526001776838" duration="4760000" />
+      <workItem from="1526017564904" duration="13748000" />
+      <workItem from="1526129552946" duration="3494000" />
+      <workItem from="1526181291413" duration="3210000" />
+      <workItem from="1526260389094" duration="663000" />
+      <workItem from="1526272074644" duration="1539000" />
+      <workItem from="1526275895888" duration="2725000" />
+      <workItem from="1526294301577" duration="8748000" />
+      <workItem from="1526394087418" duration="751000" />
+      <workItem from="1526432109495" duration="3368000" />
+      <workItem from="1526445150034" duration="1862000" />
+      <workItem from="1526524879460" duration="206000" />
+      <workItem from="1526541984349" duration="740000" />
+      <workItem from="1526609802959" duration="36000" />
+      <workItem from="1526702119594" duration="6255000" />
+      <workItem from="1526781868106" duration="543000" />
+      <workItem from="1526869085614" duration="1888000" />
+      <workItem from="1526876021813" duration="544000" />
+      <workItem from="1526968765850" duration="683000" />
+      <workItem from="1526981802754" duration="231000" />
+      <workItem from="1526982306576" duration="32000" />
+      <workItem from="1526998374559" duration="467000" />
+      <workItem from="1527049687027" duration="17000" />
+      <workItem from="1527337702474" duration="461000" />
+      <workItem from="1527338248804" duration="805000" />
+      <workItem from="1527341660267" duration="118000" />
+      <workItem from="1527387314281" duration="689000" />
+      <workItem from="1527474369552" duration="2672000" />
+      <workItem from="1527498479983" duration="1183000" />
+      <workItem from="1527554947153" duration="539000" />
+      <workItem from="1527555987211" duration="20000" />
+      <workItem from="1527556128142" duration="128000" />
+      <workItem from="1527556268004" duration="3519000" />
+      <workItem from="1527560517306" duration="1178000" />
+      <workItem from="1527641256119" duration="16000" />
+      <workItem from="1527687185917" duration="391000" />
+      <workItem from="1527689673022" duration="217000" />
+      <workItem from="1527771049377" duration="470000" />
+      <workItem from="1527828741036" duration="6750000" />
+      <workItem from="1528093515738" duration="1026000" />
+      <workItem from="1528173220284" duration="1189000" />
+      <workItem from="1528175920828" duration="6164000" />
+      <workItem from="1528242980315" duration="306000" />
+      <workItem from="1528278595708" duration="5216000" />
+      <workItem from="1528349331244" duration="583000" />
+      <workItem from="1528421861514" duration="1850000" />
+      <workItem from="1528463720847" duration="3879000" />
+      <workItem from="1528507562865" duration="2294000" />
+      <workItem from="1528510429671" duration="133000" />
+      <workItem from="1528541815028" duration="1420000" />
+      <workItem from="1528543477730" duration="8191000" />
+      <workItem from="1528600732286" duration="6809000" />
+      <workItem from="1528694715199" duration="8070000" />
+      <workItem from="1528776532106" duration="4000" />
+      <workItem from="1528802061811" duration="249000" />
+      <workItem from="1529055477943" duration="1866000" />
+      <workItem from="1529559225202" duration="6000" />
+      <workItem from="1529563202418" duration="2246000" />
+      <workItem from="1529646328427" duration="36000" />
+      <workItem from="1529646382498" duration="1191000" />
+      <workItem from="1529730956932" duration="7268000" />
+      <workItem from="1531117887128" duration="3152000" />
+      <workItem from="1531965553958" duration="33000" />
+      <workItem from="1532937681233" duration="125000" />
+      <workItem from="1533185249313" duration="613000" />
+      <workItem from="1533186152329" duration="594000" />
+      <workItem from="1533187256948" duration="1006000" />
+      <workItem from="1533192278726" duration="4869000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="279404000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49321824" weight="0.14193083" />
+      <window_info id="Structure" order="1" sideWeight="0.50678176" side_tool="true" weight="0.14193083" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" show_stripe_button="false" weight="0.329602" />
+      <window_info anchor="bottom" auto_hide="true" x="10" y="346" width="1419" height="207" id="Run" internal_type="SLIDING" order="2" sideWeight="0.49612403" weight="0.35881627" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.329602" />
+      <window_info anchor="bottom" auto_hide="true" x="10" y="348" width="1419" height="203" id="Messages" order="6" sideWeight="0.4982382" weight="0.24907522" />
+      <window_info anchor="bottom" auto_hide="true" id="CMake" internal_type="SLIDING" order="7" sideWeight="0.49575672" weight="0.28731343" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50424325" side_tool="true" weight="0.2947761" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.329602" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" x="10" y="300" width="1419" height="300" id="Debug" internal_type="SLIDING" order="3" sideWeight="0.5010571" side_tool="true" weight="0.39697406" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/iterator">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="538">
+          <caret line="1518" selection-start-line="1518" selection-end-line="1518" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/stdlib.h" />
+    <entry file="file:///usr/include/assert.h" />
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/vector">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="943" column="25" selection-start-line="943" selection-start-column="25" selection-end-line="943" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/__string">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="69" column="14" lean-forward="true" selection-start-line="69" selection-start-column="14" selection-end-line="69" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/unordered_map">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="1413" column="33" selection-start-line="1413" selection-start-column="33" selection-end-line="1413" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/maxHeap.h" />
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/memory">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="4018" column="37" lean-forward="true" selection-start-line="4018" selection-start-column="37" selection-end-line="4018" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/sys/wait.h" />
+    <entry file="file:///usr/include/sys/_types/_pid_t.h" />
+    <entry file="file:///usr/include/i386/_types.h" />
+    <entry file="file:///usr/include/sys/_types.h" />
+    <entry file="file:///usr/local/include/boost/asio/detail/signal_set_service.hpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/main.h" />
+    <entry file="file://$PROJECT_DIR$/src/maxHeap.cpp" />
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/iostream">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="53" column="32" selection-start-line="53" selection-start-column="32" selection-end-line="53" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/i386/signal.h" />
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/algorithm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="912" column="13" selection-start-line="912" selection-start-column="13" selection-end-line="912" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/sys/_types/_intptr_t.h" />
+    <entry file="file:///usr/include/i386/limits.h" />
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/wchar.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="118" column="14" selection-start-line="118" selection-start-column="14" selection-end-line="118" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/__config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="442" selection-start-line="442" selection-end-line="442" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/singleton.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="125" column="69" selection-start-line="125" selection-start-column="69" selection-end-line="125" selection-end-column="69" />
+          <folding>
+            <element signature="e#41#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/singleton.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="50" column="3" lean-forward="true" selection-start-line="50" selection-start-column="3" selection-end-line="50" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
